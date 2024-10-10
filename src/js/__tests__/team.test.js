@@ -1,5 +1,5 @@
 import Team from '../Team'
-import Character, { Bowerman, Swordsman, Magician, Daemon, Undead, Zombie } from '../Character'
+import { Bowerman, Swordsman, Magician, Daemon } from '../Character'
 
 let team;
 let bowerman;
